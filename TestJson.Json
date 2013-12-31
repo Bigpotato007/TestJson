@@ -1,13 +1,11 @@
 {
-
-response :
- {                                                
-“name”: “guide1”,
-“profileImage”: “getaroundnow.com/image213.pngemail”: “guide1@gmail.com”,
-“phone”: “123123”,
-“bio”: “know everything”,
-“rating”: “4”,
-“status”: “online”,
-}
-
+    "response": {
+        "name": "guide1",
+        "profileImage": "getaroundnow.com/image213.png",
+        "email": "guide1@gmail.com",
+        "phone": "123123",
+        "bio": "knoweverything",
+        "rating": "4",
+        "status": "online"
+    }
 }
